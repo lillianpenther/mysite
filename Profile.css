@@ -1,0 +1,71 @@
+body {
+    
+    background-color:rgb(25, 56, 114);
+}
+
+main{
+    width:1200px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: cornsilk;
+    padding: 20px 70px;
+}
+
+section {
+    background-color:cornflowerblue;
+    padding: 10px 70px;
+    
+}
+
+.light, h2, p,ol,ul{
+    font-family: clarendon-urw, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+h1 {
+    color:cornflowerblue;
+    font-size:72px;
+    padding: 30px 70px;
+    text-align: center;
+    font-family: chantal, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+
+}    
+.light{
+    color: rgb(25, 56, 114);
+}
+
+h2 {
+    color:rgb(25, 56, 114);
+    font-size: 35px;
+    font-weight:bold;
+    padding: 0 70px;
+
+}
+p {
+    color:cornflowerblue;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 25px 70px;
+}
+ol {
+    color:cornsilk;
+    font-size: 18px;
+    padding: 10px 70px;
+    
+}
+ul {
+    color:cornsilk;
+    font-size: 18px;
+    padding: 10px 70px;
+    font-weight:300;
+}
+img{
+    padding: 5px 70px;
+}
+
